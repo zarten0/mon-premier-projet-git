@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Ecole/Bibliotheque-Prompts/Index-Prompts.md",
+                "file": "01-Ecole/Cours/IA/Cours-IA-10-11-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index-Prompts"
+              "title": "Cours-IA-10-11-2026"
             }
           }
         ]
@@ -189,13 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6725547a236f467",
+  "active": "fdf1b595d1d90082",
   "lastOpenFiles": [
+    "01-Ecole/Cours/IA/Cours-IA-16-11-2026.md",
+    "01-Ecole/Cours/IA/Cours-IA-10-11-2026.md",
+    "01-Ecole/Bibliotheque-Prompts/Index-Prompts.md",
     "01-Ecole/Cours/README.md",
     "01-Ecole/Cours/IA/README.md",
     "02-Alternance/Index-Alternance.md",
     "01-Ecole/Index-Ecole.md",
-    "01-Ecole/Cours/IA/Cours-IA-10-11-2026.md",
     "01-Ecole/Cours-IA-10-11-2026.md",
     "01-Ecole/Cours/IA",
     "01-Ecole/IA-Prompt-Engineering.md",
@@ -203,7 +205,6 @@
     "01-Ecole/Cours IA 16-11-2026.md",
     "01-Ecole/IA-Prompt-Engineering/Index-IA.md",
     "00-Accueil.md",
-    "01-Ecole/Bibliotheque-Prompts/Index-Prompts.md",
     "README.md",
     "99-Templates/Template-Note.md",
     "03-Projets/Index-Projets.md",
