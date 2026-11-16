@@ -1,4 +1,4 @@
-﻿# 🤖 IA & Prompt Engineering
+# 🤖 IA & Prompt Engineering
 Retour à [[00-Accueil]]
 
 ## 🧠 Concepts clés

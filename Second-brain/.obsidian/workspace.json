@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-Ecole/IA-Prompt-Engineering_Essentiel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "IA-Prompt-Engineering_Essentiel"
             }
           }
         ]
@@ -191,13 +191,15 @@
   },
   "active": "fdf1b595d1d90082",
   "lastOpenFiles": [
-    "99-Templates/Template-Note.md",
-    "03-Projets/Index-Projets.md",
+    "01-Ecole/Index-Ecole.md",
+    "01-Ecole/Cours IA 16-11-2026.md",
+    "01-Ecole/IA-Prompt-Engineering/Index-IA.md",
+    "00-Accueil.md",
     "02-Alternance/Index-Alternance.md",
     "01-Ecole/Bibliotheque-Prompts/Index-Prompts.md",
-    "01-Ecole/IA-Prompt-Engineering/Index-IA.md",
-    "01-Ecole/Index-Ecole.md",
-    "00-Accueil.md",
+    "README.md",
+    "99-Templates/Template-Note.md",
+    "03-Projets/Index-Projets.md",
     "99-Templates",
     "04-Archives",
     "03-Projets",

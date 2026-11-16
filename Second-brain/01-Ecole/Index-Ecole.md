@@ -1,4 +1,4 @@
-﻿# 🎓 Espace École
+# 🎓 Espace École
 Retour à [[00-Accueil]]
 
 ## 📚 Matières

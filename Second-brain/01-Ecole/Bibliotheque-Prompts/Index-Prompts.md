@@ -1,4 +1,4 @@
-﻿# ✨ Bibliothèque de Prompts
+# ✨ Bibliothèque de Prompts
 Retour à [[00-Accueil]]
 
 ## 📋 Prompts prêts à l'emploi

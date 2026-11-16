@@ -1,4 +1,4 @@
-﻿# 🧭 Tableau de Bord
+# 🧭 Tableau de Bord
 
 Bienvenue dans ton espace de travail. Clique sur une section pour naviguer :
 

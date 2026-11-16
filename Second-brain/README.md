@@ -1,4 +1,4 @@
-﻿# 🧠 Second Brain — Bachelor Informatique
+# 🧠 Second Brain — Bachelor Informatique
 
 Système de gestion des connaissances (cours, IA, alternance et projets) propulsé par **Obsidian** et versionné avec **Git**.
 
