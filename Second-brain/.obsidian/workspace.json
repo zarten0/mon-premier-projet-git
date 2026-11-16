@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Ecole/IA-Prompt-Engineering_Essentiel.md",
+                "file": "01-Ecole/Index-Ecole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IA-Prompt-Engineering_Essentiel"
+              "title": "Index-Ecole"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "fdf1b595d1d90082",
   "lastOpenFiles": [
+    "01-Ecole/IA-Prompt-Engineering_Essentiel.md",
+    "01-Ecole/IA-Prompt-Engineering.md",
     "01-Ecole/Index-Ecole.md",
     "01-Ecole/Cours IA 16-11-2026.md",
     "01-Ecole/IA-Prompt-Engineering/Index-IA.md",
